@@ -121,3 +121,5 @@ if __name__ == '__main__':
     if len(number) < 1:
         number = 5
     main(img, number)
+
+# Created by Akshat Kothari (April, 2021)
